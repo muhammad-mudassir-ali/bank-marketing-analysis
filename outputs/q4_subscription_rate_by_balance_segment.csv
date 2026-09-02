@@ -1,0 +1,6 @@
+balance_segment,total_contacts,subscriptions,conversion_rate_pct,avg_age,avg_balance
+negative,7280,502,6.9,40.7,-164.0
+low,16383,1680,10.3,39.6,204.0
+medium,13045,1698,13.0,41.2,1052.0
+high,5656,968,17.1,43.3,3140.0
+very_high,2844,441,15.5,43.7,9828.0

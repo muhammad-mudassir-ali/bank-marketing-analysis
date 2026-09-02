@@ -1,0 +1,6 @@
+was_previously_contacted,previous_outcome,contacts,subscriptions,conversion_rate_pct
+1,success,1511,978,64.7
+1,unknown,5,2,40.0
+1,other,1840,307,16.7
+1,failure,4901,618,12.6
+0,unknown,36951,3384,9.2
