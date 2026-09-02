@@ -175,6 +175,22 @@ Connect Power BI to `data/bank.db` via ODBC (SQLite3 ODBC Driver) or load `data/
 
 ---
 
+## Dashboard Preview
+
+### Page 1 — Campaign Overview
+![Campaign Overview](dashboard/page1_overview.png)
+
+### Page 2 — Demographics & Customer Segmentation
+![Demographics & Segmentation](dashboard/page2_segments.png)
+
+### Page 3 — Campaign Performance & Call Intensity
+![Campaign Performance](dashboard/page3_campaign.png)
+
+### Page 4 — Advanced Analytics (A/B Testing & Cohort Analysis)
+![Advanced Analytics](dashboard/page4_advanced_analytics.png)
+
+---
+
 ## Tech Stack
 
 | Layer | Tool |
